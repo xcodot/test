@@ -1,0 +1,9 @@
+Nama Hewan :
+- Tikus
+- Semut
+- Cacing
+
+
+Nama Buah :
+- Jeruk
+- Apel
