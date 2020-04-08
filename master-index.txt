@@ -2,6 +2,7 @@ Nama Hewan :
 - Tikus
 - Semut
 - Cacing
+- Gajah
 
 
 Nama Buah :
